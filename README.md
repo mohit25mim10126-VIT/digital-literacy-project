@@ -6,7 +6,7 @@ Digital Literacy Portfolio for CSE0001 - Student Digital Ambassador Project
 
 |      Field      |      Details                |
 |-----------------|-----------------------------|
-| **Name**        | Moohit Thakur               |
+| **Name**        | Mohit Thakur               |
 | **Regi. Num.**  | 25MIM10126                  |
 | **Branch**      | Integrated M.Tech           |
 | **Year**        |   1st Year                  |
